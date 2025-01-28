@@ -19,7 +19,12 @@ This project not only demonstrates the power of functions in programming but als
 
 
 • To see source code :
+
   • Download source code zip
+  
   • Extract it 
+  
   • open the folder with a editor like VS code or VS etc.
+  
   • Getting source code require some knowledge of C++
+  
