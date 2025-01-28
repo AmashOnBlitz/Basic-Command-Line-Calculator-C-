@@ -20,7 +20,7 @@ This project not only demonstrates the power of functions in programming but als
 
 • To see source code :
 
-  • Download source code zip
+  • • Download krezmeincalculatorsourcecode.zip (You can also get this in source code (tar.gz) Or in KrezmeinCalculatorCOMPLETE.zip.)
   
   • Extract it 
   
