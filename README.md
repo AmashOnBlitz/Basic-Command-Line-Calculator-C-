@@ -16,6 +16,8 @@ This project not only demonstrates the power of functions in programming but als
 
 # INSTALLATION 
 • EXE file can run just by installing it 
+
+
 • To see source code :
   • Download source code zip
   • Extract it 
