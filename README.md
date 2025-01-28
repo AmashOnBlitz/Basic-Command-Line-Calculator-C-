@@ -14,7 +14,7 @@ Implement essential mathematical operations and learn how to code them in a way 
 Build confidence in coding basics like data types, function calls, and loops, all in a practical, real-world context.
 This project not only demonstrates the power of functions in programming but also provides a solid foundation for anyone looking to dive deeper into more complex coding concepts.
 
-# INSTALLATION 
+# Windows INSTALLATION
 • EXE file can run just by installing it 
 
 
@@ -27,4 +27,16 @@ This project not only demonstrates the power of functions in programming but als
   • open the folder with a editor like VS code or VS etc.
   
   • Getting source code require some knowledge of C++
+
+# MacOS (Macbook ) INSTALLATION
+
+• Download  krezmeincalculatorsourcecode.For.MacBook.zip
+
+• Extract it 
+
+• There you will get UNIX executable (MacOS app file)
+
+• And there will also be Source code (Krezmein) which you can use in Mac OS 
+
+
   
